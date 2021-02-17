@@ -1,6 +1,6 @@
 {
 	"name": "client",
-	"author": "Brock Chelle",
+	"author": "Himanshu",
 	"version": "0.1.0",
 	"scripts": {
 		"dev": "next dev",
